@@ -25,6 +25,13 @@ Projects
 ## Experience
 **Front End Developer - Information Technologist I**
 July 2022 - Present _Michigan State University Libraries_ | East Lansing, MI
+- Contribute to the update of the MSU Libraries website from Drupal 7 to Drupal 9.
+- Collaborate on open source application [TO BE NAMED]:
+  - Design wireframes
+  - Complete low-mid fidelity mock-ups
+  - Select an accessible color palette for the application
+  - Implemented Vue.js components using Quasar
+  - Implemented GraphQL migrations
 
 **User Experience Intern**
 January 2022 - April 2022 _The Center for Digital Curricula at the College of Engineering/University of Michigan_ | Remote
