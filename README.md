@@ -24,23 +24,23 @@ Projects
 
 ## Experience
 **Front End Developer - Information Technologist I**
-July 2022 - Present Michigan State University Libraries
+July 2022 - Present __Michigan State University Libraries__ | East Lansing, MI
 
 **User Experience Intern**
-January 2022 - April 2022 The Center for Digital Curricula at the College of Engineering/University of Michigan | Remote
+January 2022 - April 2022 __The Center for Digital Curricula at the College of Engineering/University of Michigan__ | Remote
 
 - Assist in user research related to the Collabrify Flipbook application used by upper elementary school students to create simulations to model real-life phenomena.
 - Assess the effectiveness of Flipbook and provide recommendations for changes to the applicatoin to assist student learning.
 - Analyze user data created by students using the application, distribute a survey to student users.
 
 **Library Assistant**
-September 2020 - April 2022 Hatcher Graduate Library | Ann Arbor, MI
+September 2020 - April 2022 __The University of Michigan Hatcher Graduate Library__ | Ann Arbor, MI
 
 - Manage and edited bibliographic metadata according to MARC metadata standards and in accordance with Library of Congress specifications.
 Create high-resolution scans of maps and other collection items on patron request using a Suprascan Digibook scanner.
 
 **News Analyst**
-May 2016 - May 2019 Prime Research | Ann Arbor, MI
+May 2016 - May 2019 __Prime Research__ | Ann Arbor, MI
 
 - Researched, analyzed, and compiled relevant media hits, competitor and market trends for daily and weekly news reports for clients.
 Wrote concise executive news briefings summarizing the key highlights of the day.
