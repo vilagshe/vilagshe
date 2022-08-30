@@ -26,7 +26,7 @@ Projects
 **Front End Developer - Information Technologist I**
 July 2022 - Present _Michigan State University Libraries_ | East Lansing, MI
 - Contribute to the update of the MSU Libraries website from Drupal 7 to Drupal 9.
-- Collaborate on open source application [TO BE NAMED]:
+- Contribute to open source application [TO BE NAMED]:
   - Design wireframes
   - Complete low-mid fidelity mock-ups
   - Select an accessible color palette for the application
