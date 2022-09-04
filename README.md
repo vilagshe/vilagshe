@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Shel Vilag!
 
 **Front End Developer at Michigan State University Libraries**
 
