@@ -10,7 +10,7 @@ Projects
 - **MSU Comic Database**: Work with MSU Library to write a Python program to parse the comic index and import the data to a MariaDB database
 - **237 Letters in a Database**: Create a MySQL database using the data from the project "237 Letters"
 - **Build a Django web application**: Build a web application using the Python web framework Django
-- **Responsive Multipage Website**: Build a basic website using HTML, CSS, and JavaScript. Hosted on GitHub Pages [Link here](https://svilag.github.io/SI539-portfolio/)
+- **Responsive Multipage Website**: Build a basic website using HTML, CSS, and JavaScript. Hosted on [GitHub Pages](https://svilag.github.io/SI539-portfolio/)
 
 **Activites & Organizations**: Society of American Archivists, American Library Association, Michigan Esports, Google Developer Student Club, UMpy Python Study Group
 
