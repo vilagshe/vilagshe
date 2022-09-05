@@ -89,7 +89,7 @@ a:hover, button:hover {
 }
 
 a:visited {
-    color: var(--prussian-blue);
+    color: var(--secondary-clr1);
 }
 
 
@@ -161,6 +161,31 @@ nav ul li {
     height: 30px;
     color: var(--light);
 }
+
+
+
+/* ------------------------------------- */
+
+/* ---------------FOOTER---------------- */
+
+/* ------------------------------------- */
+
+footer {
+    background: var(--primary-clr);
+    padding: 1%;
+}
+
+footer ul li {
+    text-align: center;
+    min-height: 40px;
+}
+
+.copyright {
+    color: var(--light);
+    text-align: center;
+    padding: 10px;
+}
+
 
 
 
@@ -478,31 +503,6 @@ nav ul li {
 
 
 
-/* ------------------------------------- */
-
-
-
-/* ---------------FOOTER---------------- */
-
-
-
-/* ------------------------------------- */
-footer {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-    padding: 1%;
-}
-
-footer ul li {
-    text-align: center;
-    min-height: 40px;
-}
-
-.copyright {
-    color: var(--prussian-blue);
-}
 
 /* ------------------------------------- */
 
