@@ -2,6 +2,7 @@
 
 :root {
     --sv-primary: #3700B3;
+    --sv-primary-hover: #5600E8;
     --sv-secondary: #03DAC5;
     --sv-accent: #EDCC37;
     --sv-dark: #121212;
@@ -17,9 +18,16 @@
     color: var(--sv-light);
 }
 
-.btn-bd-primary {
+.btn-sv-primary {
+    --bs-btn-font-weight: 600;
     --bs-btn-bg: var(--sv-primary);
     --bs-btn-color: var(--sv-light);
+
+    --bs-btn-border-radius: .5rem;
+}
+
+.btn-bd-primary:hover {
+    --bs-btn-hover-color: var(--sv-primary-hover);
 }
 
 /* SKIP TO MAIN */
