@@ -18,6 +18,10 @@
     color: var(--sv-light);
 }
 
+.sv-text-primary {
+    color: var(--sv-primary);
+}
+
 .btn-sv-primary {
     --bs-btn-font-weight: 600;
     --bs-btn-bg: var(--sv-primary);
