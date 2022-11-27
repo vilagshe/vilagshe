@@ -3,22 +3,27 @@ html {
     background: black;
 }
 
-.container {
+header {
+    border-right: 1px solid white;
+    width: 60px;
+    position: absolute;
+}
+
+nav {
     display: flex;
-    flex-flow: column;
+    flex-flow: column nowrap;
     align-items: center;
-    justify-content: center;
-    min-height: 100vh;
 }
 
-.container h1 {
-    font-family: 'Press Start 2P', cursive;
-    font-size: 2rem;
-    padding: 2rem;
-    color: rgb(39, 180, 46);
+nav ul {
+    height: 100vh;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 6rem 0px 6rem 0px;
 }
 
-.container p {
+nav ul li{
     color: white;
-    font-size: 1.5rem;
 }
