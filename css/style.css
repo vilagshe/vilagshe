@@ -1,29 +1,27 @@
+/* VARIABLES */
+:root {
+    --primary: orange;
+    --secondary: blue;
+    --tertiary: purple;
+    --neutral: black;
+    --neutral-variant: grey;
+    --positive: green;
+    --negative: red;
+}
 
 html {
-    background: black;
+    background-color: var(--neutral-variant);
 }
 
 header {
-    border-right: 1px solid white;
-    width: 60px;
+    top: 0;
+    width: 100vw;
+}
+
+footer {
     position: absolute;
+    bottom: 0;
+    width: 100vw;
+    text-align: center;
 }
 
-nav {
-    display: flex;
-    flex-flow: column nowrap;
-    align-items: center;
-}
-
-nav ul {
-    height: 100vh;
-    display: flex;
-    flex-flow: column nowrap;
-    justify-content: space-around;
-    align-items: center;
-    padding: 6rem 0px 6rem 0px;
-}
-
-nav ul li{
-    color: white;
-}
