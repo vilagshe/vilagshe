@@ -1,22 +1,43 @@
 /* VARIABLES */
 :root {
-    --primary: orange;
-    --secondary: blue;
-    --tertiary: purple;
-    --neutral: black;
-    --neutral-variant: grey;
-    --positive: green;
-    --negative: red;
+    --earth: #503D3F;
+    --sun: #F3A712;
+    --trees: #042A2B;
+    --grass: #3F612D;
+    --dark: #171511;
+    --light: #eeece8;
+    --text-h1: 3rem;
+    --text-h2: 2rem;
+    --text-reg: 1rem;
 }
 
 html {
-    background-color: var(--neutral-variant);
+    background-color: var(--light);
+    font-size: var(--text-reg);
 }
 
 header {
     top: 0;
     width: 100vw;
 }
+
+
+/* ------- */
+
+h1 {
+    font-size: var(--text-h1);
+}
+
+h2 {
+    font-size: var(--text-h2);
+}
+
+h3 {
+    font-size: var(--text-h3);
+}
+
+
+/* ------- */
 
 footer {
     position: absolute;
