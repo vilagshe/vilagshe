@@ -1,19 +1,30 @@
 /* VARIABLES */
 :root {
-    --earth: #503D3F;
-    --sun: #F3A712;
-    --trees: #042A2B;
-    --grass: #3F612D;
+    --sv-blue: #04395E;
+    --sv-dark-blue: #031D44;
+    --sv-green: #70A288;
+    --sv-yellow: #DAB785;
+    --sv-red: #D5896F;
     --dark: #171511;
-    --light: #eeece8;
+    --light: #fff8f0;
     --text-h1: 3rem;
     --text-h2: 2rem;
     --text-reg: 1rem;
 }
 
-html {
+.sv-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ------- */
+
+body {
+    min-height: 90vh;
     background-color: var(--light);
     font-size: var(--text-reg);
+    color: var(--sv-blue);
 }
 
 header {
@@ -58,5 +69,8 @@ footer {
     bottom: 0;
     width: 100vw;
     text-align: center;
+    padding: 1.5rem;
+    color: var(--light);
+    background-color: var(--sv-dark-blue);
 }
 
