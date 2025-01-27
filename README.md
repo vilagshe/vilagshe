@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Shel Vilag!
 
-- 😄 Pronouns: They/them
 -  :computer: Current Position: Front End Developer at Michigan State University Libraries
 - :school: Education:
   - MS Information Science, University of Michigan
