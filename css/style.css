@@ -1,26 +1,61 @@
 
 html {
-    background: black;
+    background: #141316;
+    color: #F7EEDE;
 }
 
-.container {
+.flex{
     display: flex;
-    flex-flow: column;
     align-items: center;
-    justify-content: center;
-    min-height: 100vh;
 }
 
-.container h1 {
+.justify-between {
+    justify-content: space-between;
+}
+
+.grow {
+    flex-grow: 0.5;
+}
+
+
+header {
+    padding: 0rem 2rem 0rem 2rem;
+}
+
+h1 {
     font-family: 'Press Start 2P', cursive;
     font-size: 2rem;
     padding: 2rem;
-    color: rgb(39, 180, 46);
+    color: #27b42e;
 }
 
-.container p {
-    color: white;
+h2 {
+    font-family: 'Press Start 2P', cursive;
     font-size: 1.5rem;
-    text-align: center;
     padding: 2rem;
+    color: #00A8E8;
+}
+
+nav {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.25rem;
+}
+
+p {
+    font-size: 1.25rem;
+    padding: 2rem;
+}
+
+.active-tab::before {
+    font-family: 'Press Start 2P', cursive;
+    box-sizing: border-box;
+    content: ">";
+    color: #27b42e;
+}
+
+.active-tab::after {
+    font-family: 'Press Start 2P', cursive;
+    box-sizing: border-box;
+    content: "<";
+    color: #27b42e;
 }
