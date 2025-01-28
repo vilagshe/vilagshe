@@ -1,61 +1,117 @@
-
 html {
-    background: #141316;
-    color: #F7EEDE;
+  background: #141316;
+  color: #f7eede;
 }
 
-.flex{
-    display: flex;
-    align-items: center;
+/* ---FLEX */
+
+.flex {
+  display: flex;
+  align-items: center;
 }
 
 .justify-between {
-    justify-content: space-between;
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .grow {
-    flex-grow: 0.5;
+  flex-grow: 0.25;
 }
 
+/* --- */
 
 header {
-    padding: 0rem 2rem 0rem 2rem;
+  padding: 0rem 2rem 0rem 2rem;
 }
 
 h1 {
-    font-family: 'Press Start 2P', cursive;
-    font-size: 2rem;
-    padding: 2rem;
-    color: #27b42e;
+  font-family: "Roboto Mono", serif;
+  font-size: 2rem;
+  padding: 2rem;
+  color: #27b42e;
 }
 
 h2 {
-    font-family: 'Press Start 2P', cursive;
-    font-size: 1.5rem;
-    padding: 2rem;
-    color: #00A8E8;
+  font-family: "Roboto Mono", serif;
+  font-size: 1.5rem;
+  padding: 2rem;
+  color: #00a8e8;
 }
 
 nav {
-    font-family: 'Press Start 2P', cursive;
-    font-size: 1.25rem;
+  font-family: "Roboto Mono", serif;
+  font-size: 1.25rem;
 }
 
 p {
-    font-size: 1.25rem;
-    padding: 2rem;
+  font-size: 1.25rem;
+  padding: 2rem;
 }
 
-.active-tab::before {
-    font-family: 'Press Start 2P', cursive;
-    box-sizing: border-box;
-    content: ">";
+header a:hover {
     color: #27b42e;
+}
+
+p a {
+    color: #00a8e8;
+    text-decoration: overline;
+}
+
+p a:hover {
+    text-decoration: overline underline;
+}
+
+a:hover {
+    text-decoration: overline;
+}
+
+/* --- */
+
+.active-tab::before {
+  font-family: "Roboto Mono", serif;
+  box-sizing: border-box;
+  content: ">";
+  color: #27b42e;
 }
 
 .active-tab::after {
-    font-family: 'Press Start 2P', cursive;
-    box-sizing: border-box;
-    content: "<";
+  font-family: "Roboto Mono", serif;
+  box-sizing: border-box;
+  content: "<";
+  color: #27b42e;
+}
+
+.code-line::before{
+    content:">";
     color: #27b42e;
+    padding-right: 1rem;
+}
+
+/* --- */
+
+.home-img {
+  max-width: 400px;
+}
+
+p.vignette {
+  position: relative;
+}
+p.vignette img {
+  display: block;
+}
+p.vignette:after {
+  -moz-box-shadow: inset 0 0 10em #666;
+  -webkit-box-shadow: inset 0 0 10em #666;
+  box-shadow: inset 0 0 10em #666;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  content: "";
 }
