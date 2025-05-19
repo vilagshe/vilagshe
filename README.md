@@ -4,7 +4,7 @@
 - :school: Education:
   - MS Information Science, University of Michigan
   - BS History, Eastern Michigan University
-- ⚡Hobbies: Video Games, Crochet, Reading, Painting
+- ⚡Hobbies: Music, Video Games, Crochet, Reading, Painting
 
 Contact me at <a href="mailto:vilagshe@msu.edu">vilagshe@msu.edu</a>
 
