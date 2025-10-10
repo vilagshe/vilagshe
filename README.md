@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Shel Vilag!
 
 -  :computer: Current Position: Front End Developer at Michigan State University Libraries
-- :school: Education:
-  - MS Information Science, University of Michigan
-  - BS History, Eastern Michigan University
+- :school: MS Information Science, University of Michigan
 
 Contact me at <a href="mailto:vilagshe@msu.edu">vilagshe@msu.edu</a>
 
